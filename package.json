@@ -1,0 +1,14 @@
+{
+  "name": "vk-oauth",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "yarn && node index"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
