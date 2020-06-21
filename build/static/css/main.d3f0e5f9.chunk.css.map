@@ -1,0 +1,1 @@
+{"version":3,"sources":["theme.css"],"names":[],"mappings":"AAAA,wBACE,4BAA6B,CAC7B,qCAAsC,CACtC,2BACF","file":"main.d3f0e5f9.chunk.css","sourcesContent":["body[scheme='space_gray'] {\r\n  --background_content: #313236;\r\n  --header_alternate_background: #28292c;\r\n  --header_background: #313236;\r\n}\r\n"]}
