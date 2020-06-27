@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/emoji/coffee.png"],"names":["module","exports"],"mappings":"+FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/6.8a62f87f.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/coffee.935a06d4.png\";"],"sourceRoot":""}
