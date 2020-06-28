@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.e66e69dd.chunk.css",
-    "main.js": "/static/js/main.304fc17b.chunk.js",
-    "main.js.map": "/static/js/main.304fc17b.chunk.js.map",
+    "main.js": "/static/js/main.67d8e287.chunk.js",
+    "main.js.map": "/static/js/main.67d8e287.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba166acc.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba166acc.js.map",
     "static/css/2.6bab1db4.chunk.css": "/static/css/2.6bab1db4.chunk.css",
-    "static/js/2.3ed609cb.chunk.js": "/static/js/2.3ed609cb.chunk.js",
-    "static/js/2.3ed609cb.chunk.js.map": "/static/js/2.3ed609cb.chunk.js.map",
+    "static/js/2.e45600aa.chunk.js": "/static/js/2.e45600aa.chunk.js",
+    "static/js/2.e45600aa.chunk.js.map": "/static/js/2.e45600aa.chunk.js.map",
     "static/js/3.51be7170.chunk.js": "/static/js/3.51be7170.chunk.js",
     "static/js/3.51be7170.chunk.js.map": "/static/js/3.51be7170.chunk.js.map",
     "static/js/4.ac33b1e4.chunk.js": "/static/js/4.ac33b1e4.chunk.js",
@@ -47,11 +47,11 @@
     "static/js/21.af515e89.chunk.js": "/static/js/21.af515e89.chunk.js",
     "static/js/21.af515e89.chunk.js.map": "/static/js/21.af515e89.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.154e80dd39dd417356870584ecd5286b.js": "/precache-manifest.154e80dd39dd417356870584ecd5286b.js",
+    "precache-manifest.996b3b731ad98f4147161a361379e129.js": "/precache-manifest.996b3b731ad98f4147161a361379e129.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.6bab1db4.chunk.css.map": "/static/css/2.6bab1db4.chunk.css.map",
     "static/css/main.e66e69dd.chunk.css.map": "/static/css/main.e66e69dd.chunk.css.map",
-    "static/js/2.3ed609cb.chunk.js.LICENSE.txt": "/static/js/2.3ed609cb.chunk.js.LICENSE.txt",
+    "static/js/2.e45600aa.chunk.js.LICENSE.txt": "/static/js/2.e45600aa.chunk.js.LICENSE.txt",
     "static/media/basketball.png": "/static/media/basketball.4ffbc739.png",
     "static/media/burger.png": "/static/media/burger.bc5301b9.png",
     "static/media/cat.png": "/static/media/cat.14e9fbd5.png",
@@ -75,8 +75,8 @@
   "entrypoints": [
     "static/js/runtime-main.ba166acc.js",
     "static/css/2.6bab1db4.chunk.css",
-    "static/js/2.3ed609cb.chunk.js",
+    "static/js/2.e45600aa.chunk.js",
     "static/css/main.e66e69dd.chunk.css",
-    "static/js/main.304fc17b.chunk.js"
+    "static/js/main.67d8e287.chunk.js"
   ]
 }
