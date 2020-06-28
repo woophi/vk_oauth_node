@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/emoji/dog.png"],"names":["module","exports"],"mappings":"+FAAAA,EAAOC,QAAU,IAA0B","file":"static/js/8.64f7cb94.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/dog.a5c02836.png\";"],"sourceRoot":""}
