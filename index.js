@@ -29,6 +29,8 @@ var config = {
   headers: { }
 };
 
+console.log('pro', process.platform)
+
 axios(config)
 .then(function (response) {
   console.log(JSON.stringify(response.data));
